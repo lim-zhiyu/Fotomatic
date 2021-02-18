@@ -232,7 +232,6 @@ header .mobile {
 }
 
 .feature {
-  height: 603px;
   flex: 1;
   padding: 32px 32px 0 32px;
   margin: 0px 1.25rem;
@@ -240,17 +239,14 @@ header .mobile {
 }
 
 .feature .image-container {
-  width: 100%;
-  height: 413px;
-
-}
-
-.feature img {
-  object-fit: fill;
+  width: 90%;
+  height: 65%;
+  margin: 0 auto;
 }
 
 .feature .content {
-  padding-top: 40px;
+  padding: 40px;
+  height: 147px;
 }
 
 .feature h2 {
