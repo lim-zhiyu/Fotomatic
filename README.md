@@ -1,3 +1,2 @@
-# Fotomatic
-## Info
-This is a HTML and CSS project on codecademy. In the project, I identified and fixed errors in the code to make the webpage appear as intended. CSS media queries are used to make the website responsive. You can access the webpage here: https://zhiyu-github.github.io/codecademy_fotomatic/
+# About
+In this Codecademy project, I identified and fixed errors in the provided code to make the webpage appear as intended. CSS media queries were used to make the website responsive. The webpage is available at: https://lim-zhiyu.github.io/fotomatic
